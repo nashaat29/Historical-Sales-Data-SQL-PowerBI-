@@ -1,8 +1,6 @@
-# Sales Data Analysis Project
+# Sales Data Analysis Project: SQL Data Transformation and Power BI Visualization
 
 ![Cover](https://github.com/nashaat29/Historical-Sales-Data-SQL-PowerBI-/assets/138555343/510a6dde-2131-4d81-9abb-6a62d5d34c49)
-
-# Sales Data Analysis Project: SQL Data Transformation and Power BI Visualization
 
 Welcome to the Sales Data Analysis Project! This repository showcases a comprehensive data analysis endeavor utilizing SQL for data transformation and Power BI for visualization. The primary dataset used is sourced from Kaggle, containing three CSV files:
 
